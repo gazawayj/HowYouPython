@@ -1,7 +1,7 @@
-# HowYouPython
-## 'How You Feelin?' Python branch
+# HowYouFeelin_Python 
+## The 'How You Feelin?' Python Branch that will SURELY accomplish something.
 
-###### This is going to be the python branch of 'How You Feelin?'
+###### Project to learn python or something that will grow? We'll see.
 
 'How You Feelin?' is designed with the ill in mind. The goal of this software is to 
 one day produce worthwhile, quality, doctor-worthy health reports that are creatable, 
